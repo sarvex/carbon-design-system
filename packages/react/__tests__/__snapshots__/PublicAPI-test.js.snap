@@ -2692,10 +2692,9 @@ Map {
       "type": "default",
     },
     "propTypes": Object {
-      "aria-label": Object {
+      "ariaLabel": Object {
         "type": "string",
       },
-      "ariaLabel": [Function],
       "className": Object {
         "type": "string",
       },
