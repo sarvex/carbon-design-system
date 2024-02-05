@@ -13266,7 +13266,7 @@ fsevents@^1.2.7:
     react-router: ^6.0.0-beta.0
     react-router-dom: ^6.0.0-beta.0
     react-scripts: ^4.0.3
-    yarn: ^1.22.10
+    yarn: ^1.22.13
   languageName: unknown
   linkType: soft
 
@@ -16848,13 +16848,13 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"yarn@npm:^1.22.10":
-  version: 1.22.10
-  resolution: "yarn@npm:1.22.10"
+"yarn@npm:^1.22.13":
+  version: 1.22.21
+  resolution: "yarn@npm:1.22.21"
   bin:
     yarn: bin/yarn.js
     yarnpkg: bin/yarn.js
-  checksum: bc7ebba3d91090310b1db28af1f9fc913b8936693f4c41031db67e5c10ba171a23b343173cd3d0ea91d388e38e6244d17292278cf6c563b1dd7f8e5d0df77b4c
+  checksum: 791fab07ad55351049361686bcdd25c64a46e2afe2f2fc7587e666aa4f758d7eef80235b921aa09415557ac580ab23305c0181c1b43fed45f357a0c7a77322a1
   languageName: node
   linkType: hard
 
